@@ -4,10 +4,8 @@ O FlexBlog é um site simples com um layout responsivo, utilizando apenas as pro
 Projeto Flexblog - Curso Origamid ->https://rikcsilva.github.io/Flexblog/
 <br>
 <br>
-<br>
-<br>
 <p align="center">
-	<img width="470" src="/Flexblog_img.png">
+	<img src="/Flexblog_img.png">
 </p>
 
 Projeto desenvolvido pela [Origamid](https://www.origamid.com/).
