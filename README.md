@@ -1,4 +1,15 @@
-# Flexblog
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+## 🚀 Tecnologias
+- HTML
+- CSS
+
+## 💻 Projeto
+
 O FlexBlog é um site simples com um layout responsivo, utilizando apenas as propriedades do Flexbox e uma pitada de media query. O projeto foi desenvolvido durante o curso CSS Flexbox da Origamid.
 
 Projeto Flexblog - Curso Origamid ->https://rikcsilva.github.io/Flexblog/
